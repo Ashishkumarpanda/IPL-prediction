@@ -21,15 +21,15 @@
 
 ### The Second model(IPL_Score) will predict the score that will come after each delivery on the basis of following factors:
 #### 1) match number
-#### 1) innings number
-#### 1) batting team
-#### 1) bowling team
-#### 1) over
-#### 1) delivery number
-#### 1) batsman
-#### 1) non striker
-#### 1) bowler
-#### 1) is super over or not
-#### 1) wides,noballs,legbyes,baatsman run etc.
-#### 1) Extras
+#### 2) innings number
+#### 3) batting team
+#### 4) bowling team
+#### 5) over
+#### 6) delivery number
+#### 7) batsman
+#### 8) non striker
+#### 9) bowler
+#### 10) is super over or not
+#### 11) wides,noballs,legbyes,baatsman run etc.
+#### 12) Extras
 
