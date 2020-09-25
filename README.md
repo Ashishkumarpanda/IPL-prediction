@@ -17,4 +17,4 @@
 #####        6)by how many wicket it will win
 #####        7)dl method is applied or not?
 
-#### The model will the predict which team has higher chances to win between Team 1 and Team 2
+#### The model will then predict which team has higher chances to win between Team 1 and Team 2
