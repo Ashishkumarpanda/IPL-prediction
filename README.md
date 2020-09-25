@@ -8,7 +8,7 @@
 ### There will be two models
 ###               a]on basis of matches.csv dataset
 ###               b]on basis of deliveries.csv dataset
-### The first model will predict the winner on the basis of following factors:-
+### The first model(IPL_Pred.ipynb) will predict the winner on the basis of following factors:-
 #####        1)Team 1
 #####        2)Team 2
 #####        3)Toss winner
