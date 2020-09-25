@@ -1,5 +1,5 @@
 # IPL-prediction
-<img src="ipl.jpg"></img>
+<img src="https://github.com/Ashishkumarpanda/IPL-prediction/blob/master/dataset/ipl.jpg"></img>
 
 
 
