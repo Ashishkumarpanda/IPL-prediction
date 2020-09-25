@@ -11,8 +11,10 @@
 ### The first model(IPL_Pred.ipynb) will predict the winner on the basis of following factors:-
 #####        1)Team 1
 #####        2)Team 2
-#####        3)Toss winner
-#####        4)Decision after winning the toss
+#####        3)Toss winner(Team 1/Team 2)
+#####        4)Decision after winning the toss(choose to field/bat)
 #####        5)by how many runs it will win
 #####        6)by how many wicket it will win
 #####        7)dl method is applied or not?
+
+#### The model will the predict which team has higher chances to win between Team 1 and Team 2
